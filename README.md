@@ -8,7 +8,7 @@
 - IG:=itz_piyush_me
 - Tweet:=Alone___x
 - G-mail:=piyush979841@gmail.com
-- 
+- Linkedin:= https://www.linkedin.com/in/piyush-raj-425311241/
 -It is the first repository of my Data Science Masters Journey which i am learning from Physics Wallah at PW Skills.
 <!---
 Itz-Piyush/Itz-Piyush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
